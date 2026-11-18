@@ -1,11 +1,12 @@
 <!-- Header typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F10F7&center=true&width=600&duration=4000&repeat=true&lines=Hi,+I'm+Md+Tonmoy+Bosunia+👋;Flutter+Developer;Mobile+App+Developer;Frontend+Developer" alt="Typing Animation" />
+  <a href="https://mdtonmoybosunia.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F10F7&center=true&vCenter=true&width=600&height=45&lines=Md+Tonmoy+Bosunia;Flutter+Mobile+Developer;Frontend+Developer;Figma+to+Google+Play" alt="Typing Animation" />
+  </a>
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!-- Counters -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tonmoybosunia24&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/tonmoybosunia24?label=Followers&style=social" alt="GitHub Followers"/>
@@ -14,18 +15,27 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  I'm a mobile app developer who loves building clean, fast and beautiful apps with <b>Flutter</b>.<br>
-  I also work on frontend projects and enjoy turning ideas into real products.<br>
-  Always learning, always building. 🚀
+  Mobile and frontend developer from <b>Rangpur, Bangladesh</b> with 1 year of experience at <b>BlackDevs</b>,<br>
+  building Flutter apps for Android and iOS for real clients.<br>
+  I take apps from Figma design all the way to Google Play release. 🚀<br><br>
+  <b>Open to full-time roles and freelance projects.</b>
 </p>
 
-<div align="center">
+<h2 align="center">💼 Experience</h2>
 
-  <a href="https://mdtonmoybosunia.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-mdtonmoybosunia.vercel.app-8A2BE2?style=for-the-badge&labelColor=000000">
-  </a>
+- 📱 **Mobile App Developer** at BlackDevs (May 2026 - Present): shipped 3 client Flutter apps to Google Play, handling release builds and store listings.
+- 🌐 **Web & Mobile Developer Intern** at BlackDevs (Nov 2025 - Apr 2026): built responsive interfaces with React, Next.js and Tailwind CSS, then contributed to Flutter client apps.
 
-</div>
+<h2 align="center">🚀 Featured Projects</h2>
+
+| Project | What it is | Tech |
+|---|---|---|
+| **Precise Clock** (Google Play, App Store) | Time-tracking app for employees and managers: one-tap clock in/out, timecard history, correction requests, real-time updates | Flutter, GetX, REST API, WebSocket, Firebase, Google Maps |
+| **Crave** (Google Play, App Store) | Health and wellbeing app to log cravings in a few taps, track emotions and triggers, with push reminders and insights | Flutter, GetX, REST API, Firebase, Push Notifications |
+| **Amar Seba: Citizen Services** (Google Play) | Bangla-first app for Union Parishad services: certificate applications, status tracking, holding tax and trade licence | Flutter, GetX, REST API, Firebase |
+| **Glacial Rental** | Booking website for refrigerated trailer rentals with Stripe payments and an admin dashboard, built in 10 days | Laravel, Inertia.js, React, TypeScript, MySQL, Stripe |
+| **ClassyShop** | Full-stack e-commerce store with cart, wishlist, SSLCommerz payment, PDF invoices and admin dashboard | React, Node.js, Express, MongoDB |
+| **Vehicle Log** (Figma design) | Mobile app design for car owners and rental businesses to track trips, rentals, expenses and profit/loss | Figma, UI/UX |
 
 <!-- Stats -->
 <div align="center">
@@ -54,19 +64,37 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <br>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+**Mobile**<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+
+**State Management:** GetX · BLoC · Provider · Riverpod
+
+**Frontend**<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+**Backend & Data**<br>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+
+**Tools**<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 </div>
 
@@ -82,21 +110,12 @@
   <a href="https://mdtonmoybosunia.vercel.app">
     <img src="https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000">
   </a>
-  <a href="https://github.com/tonmoybosunia24">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000">
-  </a>
-  <!-- Add your own links below, then remove these comment markers -->
-  <!--
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/md-tonmoy-bosunia">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000">
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:mdtonmoybosunia24@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000">
   </a>
-  <a href="https://www.facebook.com/YOUR-FACEBOOK/">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000">
-  </a>
-  -->
 </p>
 
 <!-- Footer -->
