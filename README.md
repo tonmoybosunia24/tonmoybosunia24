@@ -4,6 +4,7 @@
 <a href="https://mdtonmoybosunia.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=35&lines=Building+Flutter+apps+for+Android+and+iOS;Shipping+real+apps+to+Google+Play;From+Figma+design+to+store+release;Open+to+full-time+and+freelance+work" alt="Typing animation"/>
 </a>
+<br>
 <img src="https://komarev.com/ghpvc/?username=tonmoybosunia24&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/tonmoybosunia24?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0d1117" alt="Followers"/>
 <img src="https://img.shields.io/badge/Location-Rangpur%2C%20Bangladesh-6C63FF?style=for-the-badge&labelColor=0d1117" alt="Location"/>
