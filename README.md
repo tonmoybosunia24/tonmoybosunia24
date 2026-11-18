@@ -58,10 +58,23 @@ I enjoy taking an idea from a **Figma design** all the way to a **Google Play re
 <!-- ============ EXPERIENCE ============ -->
 ## 💼 Experience
 
-| Role | Company | Period |
-|---|---|---|
-| **Mobile App Developer** | BlackDevs, Rangpur | May 2026 - Present |
-| **Web & Mobile Developer Intern** | BlackDevs, Rangpur | Nov 2025 - Apr 2026 |
+<table width="100%">
+  <tr>
+    <th align="left" width="40%">Role</th>
+    <th align="left" width="30%">Company</th>
+    <th align="left" width="30%">Period</th>
+  </tr>
+  <tr>
+    <td><b>Mobile App Developer</b></td>
+    <td>BlackDevs, Rangpur</td>
+    <td>May 2026 - Present</td>
+  </tr>
+  <tr>
+    <td><b>Web &amp; Mobile Developer Intern</b></td>
+    <td>BlackDevs, Rangpur</td>
+    <td>Nov 2025 - Apr 2026</td>
+  </tr>
+</table>
 
 <!-- ============ PROJECTS ============ -->
 ## 🚀 Featured Projects
