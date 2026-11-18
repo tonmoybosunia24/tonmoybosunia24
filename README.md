@@ -58,21 +58,26 @@ I enjoy taking an idea from a **Figma design** all the way to a **Google Play re
 <!-- ============ EXPERIENCE ============ -->
 ## 💼 Experience
 
-<table width="100%">
+<table>
   <tr>
-    <th align="left" width="40%">Role</th>
-    <th align="left" width="30%">Company</th>
-    <th align="left" width="30%">Period</th>
+    <td width="35%" valign="top">
+      <b>Mobile App Developer</b><br>
+      BlackDevs, Rangpur<br>
+      <sub>May 2026 - Present</sub>
+    </td>
+    <td width="65%" valign="top">
+      Shipped 3 client Flutter apps to Google Play (Precise Clock, Crave, Amar Seba), handling release builds and store listings. Built timers that stay accurate after restarts, clock-ins that sync across devices in real time, and push reminders that bring users back.
+    </td>
   </tr>
   <tr>
-    <td><b>Mobile App Developer</b></td>
-    <td>BlackDevs, Rangpur</td>
-    <td>May 2026 - Present</td>
-  </tr>
-  <tr>
-    <td><b>Web &amp; Mobile Developer Intern</b></td>
-    <td>BlackDevs, Rangpur</td>
-    <td>Nov 2025 - Apr 2026</td>
+    <td width="35%" valign="top">
+      <b>Web &amp; Mobile Developer Intern</b><br>
+      BlackDevs, Rangpur<br>
+      <sub>Nov 2025 - Apr 2026</sub>
+    </td>
+    <td width="65%" valign="top">
+      Built responsive web interfaces with React, Next.js and Tailwind CSS, then contributed to Flutter client apps on the mobile team.
+    </td>
   </tr>
 </table>
 
